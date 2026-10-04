@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "327238596785",
+    "firebase_url": "https://iot-sensor-temperatura-default-rtdb.firebaseio.com",
+    "project_id": "iot-sensor-temperatura",
+    "storage_bucket": "iot-sensor-temperatura.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327238596785:android:dab9fd255d8882049e4a90",
+        "android_client_info": {
+          "package_name": "com.example.proyectoiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO2EaFOrSsy1iKayCZgZbyFNgdgKweyWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
